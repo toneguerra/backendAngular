@@ -1,10 +1,18 @@
 {
   "produtos": [
     {
+      "id": 1,
+      "nome": "Curso de Json-Server",
+      "inicio": "2021-04-23",
+      "preco": 25.32,
+      "promocao": true
     }
   ],
   "clientes": [
     {
+      "nome": "Tone Alex Guerra",
+      "email": "toneguerra@yahoo.com.br",
+      "id": 1
     }
   ]
 }
